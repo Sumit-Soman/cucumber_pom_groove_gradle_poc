@@ -1,5 +1,5 @@
-# Pioneer_bdd
-Pioneer Automation
+# BDD
+BDD Automation
 
 Steps for starting the exeucions
 
